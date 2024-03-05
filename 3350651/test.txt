@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Just a random text document
+=======
+Just a tiny text document
+>>>>>>> Stashed changes
